@@ -1,4 +1,7 @@
-## Hi there 👋
+## 💼 Proyecto académico destacado
+
+- 🔗 [React Petclinic - PSG2 24/25](https://github.com/gii-is-psg2/psg2-2425-g7-71): Proyecto desarrollado en el curso *Proceso de Software y Gestión II*, usando React y prácticas de CI/CD.
+
 
 <!--
 **HectorGuePra/HectorGuePra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
