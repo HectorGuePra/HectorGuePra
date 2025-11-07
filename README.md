@@ -1,6 +1,6 @@
 ## Proyectos académicos destacados
 
--  [React Petclinic - PSG2 24/25](https://github.com/gii-is-psg2/psg2-2425-g7-71): Proyecto desarrollado en el curso *Proceso de Software y Gestión II*, usando React y prácticas de CI/CD.
+-  [React Petclinic - PSG2 24/25](https://github.com/gii-is-psg2/psg2-2425-g7-71): Proyecto desarrollado en el curso *Proceso de Software y Gestión II*, usando React Spring Boot y prácticas de CI/CD.
 -  [Juego de cartas Dixit - DP1 24/25](https://github.com/gii-is-DP1/DP1-2024-2025--l8-2): Proyecto desarrollado en el curso *Diseño y Pruebas 1* (DP1), basado en el juego de cartas Dixit, usando Java, JavaScript, Spring y React con arquitectura MVC.
 
 
